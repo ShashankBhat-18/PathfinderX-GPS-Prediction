@@ -84,9 +84,9 @@ Contributions are always welcome! Please check our [Contributing Guidelines](/CO
 ## 📧 Contact
 
 For more information, collaborations, or inquiries:
-- Email: [for.tejaspatil@gmail.com](mailto:for.tejaspatil@gmail.com)
-- Discord: #klayjensen
-- Project Link: [GitHub - PathFinderX](https://github.com/tejas2510/PathFinderX)
+- Email: [shashankbhat1804@gmail.com](mailto:Shashankbhat1804@gmail.com)
+- Discord: #Shawshank
+- Project Link: [GitHub - PathFinderX]((https://github.com/ShashankBhat-18/PathfinderX-GPS-Prediction))
 
 ---
 
